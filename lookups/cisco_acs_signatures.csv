@@ -1,0 +1,14 @@
+signature,description
+PassedAuth,Cisco ACS passed authentications.
+FailedAuth,Cisco ACS failed attempts.
+RADIUSAcc,Cisco ACS RADIUS accounting.
+TACACSAcc,Cisco ACS TACACS+ accounting.
+TACACSAdmin,Cisco ACS TACACS+ administration.
+VoIPAcc,Cisco ACS VoIP accounting.
+BackRestore,ACS backup and restore log messages.
+Replication,ACS database replication log messages.
+AdminAudit,ACS administration audit log messages.
+PassChanges,ACS user password changes log messages.
+ServiceMon,ACS service monitoring log messages.
+RDBMSSync,ACS RDBMS Synchronization Audit log messages.
+ApplAdmin,ACS Appliance Administration Audit log messages

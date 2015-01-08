@@ -1,0 +1,5 @@
+signature,action
+"PassedAuth",success
+"FailedAuth",failure
+"Passed_Authentications",success
+"Failed_Attempts",failure

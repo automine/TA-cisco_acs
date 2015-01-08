@@ -1,0 +1,13 @@
+first_cmd,action
+copy,created
+terminal,modified
+added,created
+"tacacs-server",modified
+switchto,modified
+no,deleted
+"access-list",created
+configure,modified
+show,read
+Performing,modified
+connect,modified
+dir,read
