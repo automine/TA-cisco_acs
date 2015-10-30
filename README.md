@@ -17,3 +17,12 @@ This TA was created and tested with the following versions of Cisco ACS:
 * Versions 5.x
 * Versions 4.x
 
+## History
+
+### 1.2
+Initial release
+
+### 1.3
+Made changes to event types (thanks to Vlad from Splunk!)
+
+
