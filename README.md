@@ -27,3 +27,6 @@ Made changes to event types (thanks to Vlad from Splunk!)
 
 ### 1.5
 Changes to field aliases for changes in fieldalias behavior in Splunk 7.2  (thanks to danverandy)
+
+### 1.5.2
+Added extractions for Port and Device_Port
